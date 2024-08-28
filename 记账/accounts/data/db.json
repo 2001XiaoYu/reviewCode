@@ -1,28 +1,12 @@
 {
   "accounts": [
     {
-      "id": "0f5C77QXc",
-      "title": "购买云服务器666",
-      "time": "2024-08-28",
-      "type": "-1",
-      "account": "100",
-      "remarks": "部署项目需要使用云服务器"
-    },
-    {
-      "id": "_qGGFRInF",
-      "title": "购买云服务器111",
-      "time": "2024-08-28",
-      "type": "-1",
-      "account": "100",
-      "remarks": "部署项目需要使用云服务器"
-    },
-    {
-      "id": "qJ0GcODYV",
-      "title": "购买云服务器111",
-      "time": "2024-08-28",
-      "type": "-1",
-      "account": "100",
-      "remarks": "部署项目需要使用云服务器"
+      "id": "cLJRTnKtK",
+      "title": "发工资啦",
+      "time": "2024-08-27",
+      "type": "1",
+      "account": "12345",
+      "remarks": "发工资啦~美滋滋"
     },
     {
       "title": "购买云服务器",

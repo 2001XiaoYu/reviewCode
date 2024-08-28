@@ -11,7 +11,9 @@ const shortid = require('shortid')
 
 // 记账本的列表
 router.get('/account', function(req, res, next) {
-  res.render('list')
+  // 获取所有的账单信息
+  let accounts = db.get('accounts').value()
+  res.render('list', {accounts: accounts})
 });
 
 // 添加记录
